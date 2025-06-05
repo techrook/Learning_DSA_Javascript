@@ -14,21 +14,21 @@ This repository contains my progress and notes from the **"Data Structures and A
 ## 📅 Daily Progress
 
 ### 📌 Day 1: Introduction to DSA & Why Learn It?
-- 🧠 **Concepts:** What is DSA, Importance in Interviews, Big O overview
+- 🧠 **Concepts:** Course outline 
 - 📺 [Watch Video](https://youtu.be/tT9k_3g9rGk?si=6Z5TAxH8Cvle7ap9)
 - 📝 **Write-up:** `notes/day1-intro.md`
 
 
----
 
-### 📌 Day 2: Time Complexity (Big O)
-- 🧠 **Concepts:** Constant, Linear, Quadratic, Logarithmic Time
-- 📺 [Watch Video](https://youtu.be/QkY6-JFqQ-g?si=NKPbTZnfnEx4gXL-)
+
+### 📌 Day 2: What is an Algorithm
+- 🧠 **Concepts:** Description of an Algorithm
+- 📺 [Watch Video](https://youtu.be/vVYG8TNN7hg?si=166JKhM944Dpgetv)
 - 📝 **Write-up:** `notes/day2-big-o.md`
-- 💻 **Code:** `complexity/time-complexity.js`
+
 
 ---
-
+<!-- ---
 ### 📌 Day 3: Space Complexity
 - 🧠 **Concepts:** Stack space, input/output storage, auxiliary space
 - 📺 [Watch Video](https://youtu.be/JrWHy1TBK_Y?si=RleWXR_Q--ecxMT9)
@@ -67,7 +67,7 @@ This repository contains my progress and notes from the **"Data Structures and A
 - 📝 **Write-up:** `notes/day7-linked-list.md`
 - 💻 **Code:** `linked-list/singlyLinkedList.js`
 
----
+--- -->
 
 ## 🗂️ Folder Structure
 
