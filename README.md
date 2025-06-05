@@ -36,15 +36,15 @@ This repository contains my progress and notes from the **"Data Structures and A
 - 💻 **Code:** `complexity/space-complexity.js`
 
 ---
-<!-- ---
-### 📌 Day 4: Recursion
-- 🧠 **Concepts:** Base case, recursive case, call stack
-- 📺 [Watch Video](https://youtu.be/ngCos392W4w?si=pDhRv3vBMoTW8Z1e)
-- 📝 **Write-up:** `notes/day4-recursion.md`
-- 💻 **Code:** `recursion/factorial.js`, `recursion/fibonacci.js`
+
+### 📌 Day 4: Big-o Notation
+- 🧠 **Concepts:** Worst case for an Algorithm
+- 📺 [Watch Video](https://youtu.be/3yUuo7TqMW8?si=vUrb675tTZ_puALW)
+- 📝 **Write-up:** `notes/day4-Big-o.md`
+
 
 ---
-
+<!-- ---
 ### 📌 Day 5: Arrays
 - 🧠 **Concepts:** Indexing, Iteration, Common Operations
 - 📺 [Watch Video](https://youtu.be/djmyWRi1Y5c?si=mxYO_Gz9v1ixU4a6)

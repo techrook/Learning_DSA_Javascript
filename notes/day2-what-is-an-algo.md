@@ -8,7 +8,7 @@
 
 ## 💡 Takeaways
 - An Algorithm is a set of well-defined instructions to solve a particular problem
-- An Algorithm must have an Input and output.
+- An Algorithm must have an Input and output
 
 
 ## 📝 Notes
