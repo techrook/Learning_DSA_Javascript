@@ -24,7 +24,7 @@ This repository contains my progress and notes from the **"Data Structures and A
 ### 📌 Day 2: What is an Algorithm
 - 🧠 **Concepts:** Description of an Algorithm
 - 📺 [Watch Video](https://youtu.be/vVYG8TNN7hg?si=166JKhM944Dpgetv)
-- 📝 **Write-up:** `notes/day2-big-o.md`
+- 📝 **Write-up:** `notes/day2-what-is-an-algo.md`
 
 
 ---
