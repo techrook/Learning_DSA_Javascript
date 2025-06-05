@@ -4,14 +4,11 @@
 
 ## 🧠 Key Concepts
 - What is Data Structures and Algorithms?
-- Why DSA is important in technical interviews
-- Real-life applications
-- Importance of problem-solving skills
+
 
 ## 💡 Takeaways
 - DSA improves logical thinking and performance
-- Used in backend systems, search engines, route planning, etc.
-- Not tied to any one language (language-agnostic)
+
 
 ## 📝 Notes
 - Data Structure: A way to organize and store data
