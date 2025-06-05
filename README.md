@@ -28,15 +28,15 @@ This repository contains my progress and notes from the **"Data Structures and A
 
 
 ---
-<!-- ---
-### 📌 Day 3: Space Complexity
-- 🧠 **Concepts:** Stack space, input/output storage, auxiliary space
-- 📺 [Watch Video](https://youtu.be/JrWHy1TBK_Y?si=RleWXR_Q--ecxMT9)
-- 📝 **Write-up:** `notes/day3-space-complexity.md`
+
+### 📌 Day 3: Time and Space Complexity
+- 🧠 **Concepts:** How an Algorithm Performance is measured
+- 📺 [Watch Video](https://youtu.be/Fo2Qnw5pMGo?si=ZHuu80snvFhWhO7s)
+- 📝 **Write-up:** `notes/day3-time-space-complexity.md`
 - 💻 **Code:** `complexity/space-complexity.js`
 
 ---
-
+<!-- ---
 ### 📌 Day 4: Recursion
 - 🧠 **Concepts:** Base case, recursive case, call stack
 - 📺 [Watch Video](https://youtu.be/ngCos392W4w?si=pDhRv3vBMoTW8Z1e)
