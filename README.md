@@ -1,0 +1,95 @@
+# 📘 Data Structures & Algorithms in JavaScript – Learning Journey
+
+This repository contains my progress and notes from the **"Data Structures and Algorithms in JavaScript"** playlist by **Codevolution** on YouTube. I’ll document what I learn each day with write-ups, links to the videos, and code snippets for practice.
+
+---
+
+## 📺 Playlist Information
+
+- **Course:** [DSA in JavaScript - Codevolution](https://youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
+- **Author:** [Codevolution](https://www.youtube.com/@Codevolution)
+
+---
+
+## 📅 Daily Progress
+
+### 📌 Day 1: Introduction to DSA & Why Learn It?
+- 🧠 **Concepts:** What is DSA, Importance in Interviews, Big O overview
+- 📺 [Watch Video](https://youtu.be/tT9k_3g9rGk?si=6Z5TAxH8Cvle7ap9)
+- 📝 **Write-up:** `notes/day1-intro.md`
+
+
+---
+
+### 📌 Day 2: Time Complexity (Big O)
+- 🧠 **Concepts:** Constant, Linear, Quadratic, Logarithmic Time
+- 📺 [Watch Video](https://youtu.be/QkY6-JFqQ-g?si=NKPbTZnfnEx4gXL-)
+- 📝 **Write-up:** `notes/day2-big-o.md`
+- 💻 **Code:** `complexity/time-complexity.js`
+
+---
+
+### 📌 Day 3: Space Complexity
+- 🧠 **Concepts:** Stack space, input/output storage, auxiliary space
+- 📺 [Watch Video](https://youtu.be/JrWHy1TBK_Y?si=RleWXR_Q--ecxMT9)
+- 📝 **Write-up:** `notes/day3-space-complexity.md`
+- 💻 **Code:** `complexity/space-complexity.js`
+
+---
+
+### 📌 Day 4: Recursion
+- 🧠 **Concepts:** Base case, recursive case, call stack
+- 📺 [Watch Video](https://youtu.be/ngCos392W4w?si=pDhRv3vBMoTW8Z1e)
+- 📝 **Write-up:** `notes/day4-recursion.md`
+- 💻 **Code:** `recursion/factorial.js`, `recursion/fibonacci.js`
+
+---
+
+### 📌 Day 5: Arrays
+- 🧠 **Concepts:** Indexing, Iteration, Common Operations
+- 📺 [Watch Video](https://youtu.be/djmyWRi1Y5c?si=mxYO_Gz9v1ixU4a6)
+- 📝 **Write-up:** `notes/day5-arrays.md`
+- 💻 **Code:** `arrays/reverse.js`, `arrays/twoSum.js`
+
+---
+
+### 📌 Day 6: Objects
+- 🧠 **Concepts:** Key-value pairs, Hash tables, Maps
+- 📺 [Watch Video](https://youtu.be/wK3N1Uo1p1k?si=n_HNWlCWy_1a_wFu)
+- 📝 **Write-up:** `notes/day6-objects.md`
+- 💻 **Code:** `objects/frequencyCounter.js`
+
+---
+
+### 📌 Day 7: Linked List - Theory & Implementation
+- 🧠 **Concepts:** Nodes, Head/Tail, Traversal, Insertion, Deletion
+- 📺 [Watch Video](https://youtu.be/nquZKh7cT4M?si=Fht1kRoU8aFMPDKP)
+- 📝 **Write-up:** `notes/day7-linked-list.md`
+- 💻 **Code:** `linked-list/singlyLinkedList.js`
+
+---
+
+## 🗂️ Folder Structure
+
+
+---
+
+## 🧠 Topics To Be Covered
+
+- ✅ Basics (Time/Space Complexity, Recursion)
+- ✅ Arrays & Strings
+- ✅ Objects & Hash Tables
+- ⏳ Linked Lists
+- ⏳ Stacks & Queues
+- ⏳ Trees & Graphs
+- ⏳ Searching & Sorting
+- ⏳ Recursion & Dynamic Programming
+
+---
+
+## 🏃 How to Run Code
+
+Make sure Node.js is installed:
+
+```bash
+node arrays/reverse.js
