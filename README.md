@@ -13,35 +13,36 @@ This repository contains my progress and notes from the **"Data Structures and A
 
 ## 📅 Daily Progress
 
-### 📌 Day 1: Introduction to DSA & Why Learn It?
-- 🧠 **Concepts:** Course outline 
-- 📺 [Watch Video](https://youtu.be/tT9k_3g9rGk?si=6Z5TAxH8Cvle7ap9)
-- 📝 **Write-up:** `notes/day1-intro.md`
+## 📌 Day 1: Introduction to DSA & Why Learn It?
 
-
-
-
-### 📌 Day 2: What is an Algorithm
-- 🧠 **Concepts:** Description of an Algorithm
-- 📺 [Watch Video](https://youtu.be/vVYG8TNN7hg?si=166JKhM944Dpgetv)
-- 📝 **Write-up:** `notes/day2-what-is-an-algo.md`
-
+- 🧠 **Concepts:** Course outline  
+- 📺 [Watch Video](https://youtu.be/tT9k_3g9rGk?si=6Z5TAxH8Cvle7ap9)  
+- 📝 **Write-up:** [notes/day1-intro.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day1-intro.md)
 
 ---
 
-### 📌 Day 3: Time and Space Complexity
-- 🧠 **Concepts:** How an Algorithm Performance is measured
-- 📺 [Watch Video](https://youtu.be/Fo2Qnw5pMGo?si=ZHuu80snvFhWhO7s)
-- 📝 **Write-up:** `notes/day3-time-space-complexity.md`
-- 💻 **Code:** `complexity/space-complexity.js`
+## 📌 Day 2: What is an Algorithm
+
+- 🧠 **Concepts:** Description of an Algorithm  
+- 📺 [Watch Video](https://youtu.be/vVYG8TNN7hg?si=166JKhM944Dpgetv)  
+- 📝 **Write-up:** [notes/day2-what-is-an-algo.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day2-what-is-an-algo.md)
 
 ---
 
-### 📌 Day 4: Big-o Notation
-- 🧠 **Concepts:** Worst case for an Algorithm
-- 📺 [Watch Video](https://youtu.be/3yUuo7TqMW8?si=vUrb675tTZ_puALW)
-- 📝 **Write-up:** `notes/day4-Big-o.md`
+## 📌 Day 3: Time and Space Complexity
 
+- 🧠 **Concepts:** How an Algorithm’s performance is measured  
+- 📺 [Watch Video](https://youtu.be/Fo2Qnw5pMGo?si=ZHuu80snvFhWhO7s)  
+- 📝 **Write-up:** [notes/day3-time-space-complexity.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day3-time-space-complexity.md)  
+- 💻 **Code:** [codes/complexity/space-complexity.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/complexity/space-complexity.js)
+
+---
+
+## 📌 Day 4: Big-O Notation
+
+- 🧠 **Concepts:** Worst-case analysis of an algorithm  
+- 📺 [Watch Video](https://youtu.be/3yUuo7TqMW8?si=vUrb675tTZ_puALW)  
+- 📝 **Write-up:** [notes/day4-Big-o.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day4-Big-o.md)
 
 ---
 
@@ -54,8 +55,8 @@ This repository contains my progress and notes from the **"Data Structures and A
   - [codes/arrays_and_objects/basic_array_operations.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/arrays_and_objects/basic_array_operations.js)  
   - [codes/arrays_and_objects/basic_obj_operations.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/arrays_and_objects/basic_obj_operations.js)
 
-
 ---
+
 <!-- ---
 ### 📌 Day 6: Objects
 - 🧠 **Concepts:** Key-value pairs, Hash tables, Maps
