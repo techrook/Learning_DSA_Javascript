@@ -57,15 +57,18 @@ This repository contains my progress and notes from the **"Data Structures and A
 
 ---
 
-<!-- ---
-### 📌 Day 6: Objects
-- 🧠 **Concepts:** Key-value pairs, Hash tables, Maps
-- 📺 [Watch Video](https://youtu.be/tQjd29Rmo_A?si=k1mhu-ml3GBvKE3t)
-- 📝 **Write-up:** `notes/day6-objects.md`
-- 💻 **Code:** `objects/frequencyCounter.js`
+
+### 📌 Day 6 and 7: Objects
+- 🧠 **Concepts:** Math Algorithms: Fibonacci Sequence  
+- 📺 [Watch Video](https://youtu.be/Eivk4lyC00E?si=C9ORPgtsaNBONchS)
+- 📺 [Watch Video](https://youtu.be/tQjd29Rmo_A?si=k1mhu-ml3GBvKE3t)   
+- 📝 **Write-up:** [notes/day5-arrays_and_objects.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day5-arrays_and_objects.md)  
+- 💻 **Code:**  
+  - [codes/arrays_and_objects/basic_array_operations.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/math_Algorithms/fibonacci.js)  
+
 
 ---
-
+<!-- ---
 ### 📌 Day 7: Linked List - Theory & Implementation
 - 🧠 **Concepts:** Nodes, Head/Tail, Traversal, Insertion, Deletion
 - 📺 [Watch Video](https://youtu.be/nquZKh7cT4M?si=Fht1kRoU8aFMPDKP)
