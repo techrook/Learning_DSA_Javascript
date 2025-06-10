@@ -45,11 +45,15 @@ This repository contains my progress and notes from the **"Data Structures and A
 
 ---
 
-### 📌 Day 5: Arrays and Objects
-- 🧠 **Concepts:** arrays and object in DSA
-- 📺 [Watch Video](https://youtu.be/tQjd29Rmo_A?si=k1mhu-ml3GBvKE3t)
-- 📝 **Write-up:** `notes/day5-arrays_and_objects.md`
-- 💻 **Code:** `codes/arrays_and_objects/basic_array_operations.js`, `codes/arrays_and_objects/basic_obj_operations.js`
+## 📌 Day 5: Arrays and Objects
+
+- 🧠 **Concepts:** Arrays and Objects in DSA  
+- 📺 [Watch Video](https://youtu.be/tQjd29Rmo_A?si=k1mhu-ml3GBvKE3t)  
+- 📝 **Write-up:** [notes/day5-arrays_and_objects.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day5-arrays_and_objects.md)  
+- 💻 **Code:**  
+  - [codes/arrays_and_objects/basic_array_operations.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/arrays_and_objects/basic_array_operations.js)  
+  - [codes/arrays_and_objects/basic_obj_operations.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/arrays_and_objects/basic_obj_operations.js)
+
 
 ---
 <!-- ---
