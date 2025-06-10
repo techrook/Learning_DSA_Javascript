@@ -62,7 +62,7 @@ This repository contains my progress and notes from the **"Data Structures and A
 - 🧠 **Concepts:** Math Algorithms: Fibonacci Sequence  
 - 📺 [Watch Video](https://youtu.be/Eivk4lyC00E?si=C9ORPgtsaNBONchS)
 - 📺 [Watch Video](https://youtu.be/tQjd29Rmo_A?si=k1mhu-ml3GBvKE3t)   
-- 📝 **Write-up:** [notes/day5-arrays_and_objects.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day5-arrays_and_objects.md)  
+- 📝 **Write-up:** [notes/day5-arrays_and_objects.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day6&7-math-algo-fibonacci-sequence.md)  
 - 💻 **Code:**  
   - [codes/arrays_and_objects/basic_array_operations.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/math_Algorithms/fibonacci.js)  
 
