@@ -44,18 +44,18 @@ This repository contains my progress and notes from the **"Data Structures and A
 
 
 ---
-<!-- ---
-### 📌 Day 5: Arrays
-- 🧠 **Concepts:** Indexing, Iteration, Common Operations
-- 📺 [Watch Video](https://youtu.be/djmyWRi1Y5c?si=mxYO_Gz9v1ixU4a6)
-- 📝 **Write-up:** `notes/day5-arrays.md`
-- 💻 **Code:** `arrays/reverse.js`, `arrays/twoSum.js`
+
+### 📌 Day 5: Arrays and Objects
+- 🧠 **Concepts:** arrays and object in DSA
+- 📺 [Watch Video](https://youtu.be/tQjd29Rmo_A?si=k1mhu-ml3GBvKE3t)
+- 📝 **Write-up:** `notes/day5-arrays_and_objects.md`
+- 💻 **Code:** `codes/arrays_and_objects/basic_array_operations.js`, `codes/arrays_and_objects/basic_obj_operations.js`
 
 ---
-
+<!-- ---
 ### 📌 Day 6: Objects
 - 🧠 **Concepts:** Key-value pairs, Hash tables, Maps
-- 📺 [Watch Video](https://youtu.be/wK3N1Uo1p1k?si=n_HNWlCWy_1a_wFu)
+- 📺 [Watch Video](https://youtu.be/tQjd29Rmo_A?si=k1mhu-ml3GBvKE3t)
 - 📝 **Write-up:** `notes/day6-objects.md`
 - 💻 **Code:** `objects/frequencyCounter.js`
 
