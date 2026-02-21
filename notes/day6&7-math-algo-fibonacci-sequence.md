@@ -8,5 +8,5 @@
 
 ## 💡 Takeaways
 - They are various Math Algorithms problems and solutions.
-- Fibonacci sequence in mathematics is a seq in which each number is the sum of the two previous ones. 
-- fibocci first two numbers are 0 and 1.
+- Fibonacci sequence in mathematics is a sequence in which each number is the sum of the two previous ones. 
+- Fibonacci first two numbers are 0 and 1.
