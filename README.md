@@ -84,9 +84,19 @@ This repository contains my progress and notes from the **"Data Structures and A
 
 - 🧠 **Concepts:** Prime Numbers
 - 📺 [Watch Video](https://youtu.be/cbHMQxOuIUw?si=3dpXFqvUpNpZ9ay)
-- 📝 **Write-up:** [notes/day8-math-algo-factorial.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day9-math-algo-prime-number.md)  
+- 📝 **Write-up:** [notes/day9-math-algo-prime-number.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day9-math-algo-prime-number.md)  
 - 💻 **Code:**  
   - [codes/math_algorithms/prime.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/math_Algorithms/prime.js)  
+
+---
+
+### 📌 Day 10: math Algorithms
+
+- 🧠 **Concepts:** Power of two
+- 📺 [Watch Video](https://youtu.be/SZRG1bmDlx8?si=21tkN9zTtvoo4Iv5)
+- 📝 **Write-up:** [notes/day8-math-algo-power-of-two.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day9-math-algo-power-of-two.md)  
+- 💻 **Code:**  
+  - [codes/math_algorithms/prime.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/math_Algorithms/power_of_two.js)  
 
 ---
 
