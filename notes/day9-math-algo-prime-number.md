@@ -1,4 +1,4 @@
-# 🗓️ Day 6 and 7 : Math Algorithms: Prime number
+# 🗓️ Day 9 : Math Algorithms: Prime number
 
 📺 **Video Link:** [Prime number](https://youtu.be/cbHMQxOuIUw?si=3dpXFqvUpNpZ9ay)
 
