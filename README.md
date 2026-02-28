@@ -96,7 +96,7 @@ This repository contains my progress and notes from the **"Data Structures and A
 - 📺 [Watch Video](https://youtu.be/SZRG1bmDlx8?si=21tkN9zTtvoo4Iv5)
 - 📝 **Write-up:** [notes/day10-math-algo-power-of-two.md](https://github.com/techrook/Learning_DSA_Javascript/blob/main/notes/day10-math-algo-power-of-two.md)  
 - 💻 **Code:**  
-  - [codes/math_algorithms/prime.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/math_Algorithms/power_of_two.js)  
+  - [codes/math_algorithms/power_of_two.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/math_Algorithms/power_of_two.js)  
 
 ---
 
