@@ -99,13 +99,22 @@ This repository contains my progress and notes from the **"Data Structures and A
   - [codes/math_algorithms/power_of_two.js](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/math_Algorithms/power_of_two.js)  
 
 ---
-### 📌 Day 11: Recursion
+### 📌 Day 11: Recursion i
 
 - 🧠 **Concepts:** recursive fibonacci sequence
 - 📺 [Watch Video](https://youtu.be/wZNxLwqxu00?si=6aGmiUvsl7TY6dbx)
 
 - 💻 **Code:**  
   - [codes/recursion/recursive_fibonacci_sequence.js.](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/recursion/recursive_fibonacci_sequence.js)  
+
+---
+### 📌 Day 11: Recursion ii
+
+- 🧠 **Concepts:** recursive factorial
+- 📺 [Watch Video](https://youtu.be/o5XweHW-H4Y?si=Ndsc8hw04o5IguKf)
+
+- 💻 **Code:**  
+  - [codes/recursion/recursive_factorial.js.](https://github.com/techrook/Learning_DSA_Javascript/blob/main/codes/recursion/recursive_factorial.js)  
 
 ---
 
